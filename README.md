@@ -25,5 +25,6 @@ Super simple script which runs from the falador west bank to the waterpump and f
 - Put the pictures into `\src\model\osrs\WillowsDad\WillowsDad_images`
 - Put the `ChrisBowlFiller.py` file into `\src\model\osrs\WillowsDad`
 - Banks should be tagged yellow
-- Trees should be tagge pink
+- Waterpump should be tagge pink
 - Bank deposit settings should be set to "All"
+- Angle/zoom out the camera so both the Bank and the Waterpump can be seen on the same screen.
