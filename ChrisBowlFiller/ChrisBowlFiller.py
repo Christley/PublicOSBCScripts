@@ -128,8 +128,6 @@ class OSRSChrisBowlFiller(WillowsDadBot):
         self.withdraw_ids = [ids.BOWL]
         self.withdraw_paths = [self.WILLOWSDAD_IMAGES.joinpath("bowl_bank.png")]
         self.deposit_ids = [ids.BOWL_OF_WATER]
-        self.supercompost = 0
-        self.text_box_ultracompost = self.WILLOWSDAD_IMAGES.joinpath("textboxultracompost.png")
     
 
     def sleep(self, percentage):
