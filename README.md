@@ -32,7 +32,7 @@ Super simple script which runs from the falador west bank to the waterpump and f
 
 
 ### Chris Dhide Crafter Alcher
-A feature rich script which crafts dragonhide bodies and alches them. Xp rates are 170-175k/h combined xp using the bank, and 175-180k/h when unnoting. Make sure your inventory contains thread, at least one coin and a needle.
+A feature rich script which crafts dragonhide bodies and alches them. Xp rates are 170-175k/h combined xp using the bank, and 175-180k/h when unnoting (Blue Dhide). Make sure your inventory contains thread, at least one coin and a needle.
 #### Features
 - Can craft straight from the bank. Requires a staff of fire or tome of fire and nature runes in the inventory.
 - Can craft using notes (by using on the bank) for slightly faster xp rates. This requires you to use Bryophyta's staff and a Tome of fire.
