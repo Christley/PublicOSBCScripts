@@ -92,7 +92,7 @@ class OSRSChrisDhideCraftAlcher(WillowsDadBot):
         self.log_msg(f"Running time: {self.running_time} minutes.")
         self.log_msg(f"Bot will{'' if self.take_breaks else ' not'} take breaks.")
         self.log_msg(f"Bot will{'' if self.afk_train else ' not'} train like you're afk on another tab.")
-        self.log_msg(f"Bot will cook {options['dhide_type']}.")
+        self.log_msg(f"Bot will craft {options['dhide_type']} bodies.")
         self.log_msg("Options set successfully.")
         self.options_set = True
 
